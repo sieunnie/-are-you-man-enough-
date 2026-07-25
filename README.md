@@ -1,12 +1,12 @@
 <div align="center">
 
-${\textsf{\color{#FFFFFF}"𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙𝖍𝖎𝖘 𝖒𝖔𝖓𝖊𝖞 𝖜𝖍𝖎𝖑𝖊 𝖞𝖔𝖚 𝖉𝖔 𝖎𝖙 𝖜𝖎𝖙𝖍 𝖓𝖔 𝖍𝖆𝖓𝖉𝖘"}}$
+${\textsf{\color{#A7A7A7}"𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙𝖍𝖎𝖘 𝖒𝖔𝖓𝖊𝖞 𝖜𝖍𝖎𝖑𝖊 𝖞𝖔𝖚 𝖉𝖔 𝖎𝖙 𝖜𝖎𝖙𝖍 𝖓𝖔 𝖍𝖆𝖓𝖉𝖘"}}$
 
 <p align="center">
 <div align=center">
 
 <p align="center">
-<img width="1155" height="370" alt="image" src="https://github.com/user-attachments/assets/090cc824-9d53-42a9-b7a2-9db439539010" />
+<img width="800" height="400" alt="6a8a868f529240da8c478763b7bf2d31" src="https://github.com/user-attachments/assets/1b7ab036-0906-46b6-ab22-7351e3375294" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=th-vm&color=060A0D&style=for-the-badge&abbreviated=true)
