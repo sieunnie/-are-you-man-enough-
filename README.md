@@ -11,7 +11,7 @@ ${\textsf{\color{#A7A7A7}"𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙�
 
 ![](https://komarev.com/ghpvc/?username=th-vm&color=060A0D&style=for-the-badge&abbreviated=true)
 
-WIP Straw . [新book](https://mrtnn.atabook.org/) . [Art Tumblr](https://www.tumblr.com/mangomnkey) . [Prns](https://pronouns.cc/@th-vm)
+[Strawpage](https://straw.page/draw) . [新book](https://mrtnn.atabook.org/) . [Art Tumblr](https://www.tumblr.com/mangomnkey) . [Prns](https://pronouns.cc/@th-vm)
 <div></div>
  
 <p align="right">
