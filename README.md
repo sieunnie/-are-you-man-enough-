@@ -34,7 +34,7 @@ ${\textsf{\color{#4e2d2d}transgay   taken}}$
 
 ${\textsf{\color{#3a2d2d}iwec always  --  mentally unstable}}$
 
-[新book](https://mrtnn.atabook.org/)  more links will be added once everything is revamped.
+[新book](https://mrtnn.atabook.org/)
 
  
   
