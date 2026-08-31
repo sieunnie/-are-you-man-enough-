@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=ffffff&center=true&vCenter=true&width=500&lines=i+can+get+myself+out" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=6B3929&center=true&vCenter=true&width=500&lines=i+can+get+myself+out" alt="Typing SVG" /></a>
 
 
 <p align="center">
