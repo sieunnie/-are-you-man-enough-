@@ -8,7 +8,7 @@
 <div align=center">
 
 <p align="center">
-<img align="right" src="https://files.catbox.moe/537g71.png" alt="image" />
+<img align="right" src="https://files.catbox.moe/ecgsm6.webp" alt="image" />
 
 
   
