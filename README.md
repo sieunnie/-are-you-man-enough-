@@ -1,13 +1,13 @@
 <div align="center">
 
-${\textsf{\color{#A7A7A7}"𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙𝖍𝖎𝖘 𝖒𝖔𝖓𝖊𝖞 𝖜𝖍𝖎𝖑𝖊 𝖞𝖔𝖚 𝖉𝖔 𝖎𝖙 𝖜𝖎𝖙𝖍 𝖓𝖔 𝖍𝖆𝖓𝖉𝖘"}}$
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=300&size=17&duration=2400&pause=20&color=ffffff&center=true&vCenter=true&width=500&lines=i+can+get+myself+out" alt="Typing SVG" /></a>
+
 
 <p align="center">
 <div align=center">
 
 <p align="center">
-<img src="https://64.media.tumblr.com/3a4ba841eeee54c05484aa4cbae2fe32/04d417e49e4c928b-1a/s540x810/e7e035793005fcd87cf253870ddba08822091f2e.gif" alt="Tom Holland Net"/>
-
+<img width="540" height="380" alt="tumblr_3a4ba841eeee54c05484aa4cbae2fe32_e7e03579_540" src="https://github.com/user-attachments/assets/ceba7c53-023b-4081-9023-b18c833d416f" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=th-vm&color=060A0D&style=for-the-badge&abbreviated=true)
