@@ -8,7 +8,9 @@
 <div align=center">
 
 <p align="center">
-<img align="right" src="https://github.com/user-attachments/assets/ceba7c53-023b-4081-9023-b18c833d416f" alt="tumblr_3a4ba841eeee54c05484aa4cbae2fe32_e7e03579_540" />
+<img align="right" src="https://images-ext-1.discordapp.net/external/dDgM8OpfETqzyVy9yJ9A3WoZ-nDvdISM8VwdwECgCME/https/files.catbox.moe/viifxr.webp?format=webp&amp;width=306&amp;height=320" alt="image" />
+
+
   
   
   
@@ -44,6 +46,6 @@ ${\textsf{\color{#3a2d2d}iwec always  --  mentally unstable}}$
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=fefff1">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kliqz4jhbuzq2fs3mdv4hcseoi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=4e2d2d">
   </a>
 </p>
