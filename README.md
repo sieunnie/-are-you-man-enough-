@@ -6,7 +6,8 @@ ${\textsf{\color{#A7A7A7}"𝕬𝖓𝖉 𝕴'𝖒𝖆 𝖙𝖍𝖗𝖔𝖜 𝖙�
 <div align=center">
 
 <p align="center">
-<img width="800" height="400" alt="6a8a868f529240da8c478763b7bf2d31" src="https://github.com/user-attachments/assets/1b7ab036-0906-46b6-ab22-7351e3375294" />
+<img src="https://64.media.tumblr.com/3a4ba841eeee54c05484aa4cbae2fe32/04d417e49e4c928b-1a/s540x810/e7e035793005fcd87cf253870ddba08822091f2e.gif" alt="Tom Holland Net"/>
+
 </p>
 
 ![](https://komarev.com/ghpvc/?username=th-vm&color=060A0D&style=for-the-badge&abbreviated=true)
